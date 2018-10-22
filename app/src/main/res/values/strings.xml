@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">My Apps</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="forgot_password">Forgot Password</string>
+    <string name="logo">Logo</string>
+    <string name="npm">NPM</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="verify_password">Verify Password</string>
+
+    <string-array name="program_studi">
+        <item>Program Studi</item>
+        <item>Teknik Informatika</item>
+        <item>Teknik Industri</item>
+        <item>Desain Komunikasi Visual</item>
+    </string-array>
+
+    <string-array name="kelas">
+        <item>Pilih Kelas</item>
+        <item>Reguler Pagi</item>
+        <item>Reguler Malam</item>
+        <item>Weekend</item>
+    </string-array>
+
+</resources>
