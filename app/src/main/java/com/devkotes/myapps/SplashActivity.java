@@ -8,13 +8,11 @@ import android.os.Bundle;
 public class SplashActivity extends AppCompatActivity {
 
     //Set waktu lama splashscreen
-    private static int splashInterval = 2000;
+    private static int splashInterval = 1500;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_splash);
-
         setContentView(R.layout.activity_splash);
 
         new Handler().postDelayed(new Runnable() {
